@@ -1,3 +1,4 @@
+
 .cntl {
 	position: relative;
 	width: 100%;
@@ -100,7 +101,7 @@
 		float: none
 	}
 	.cntl-state:nth-child(2n+2) .cntl-content {
-		margi-right: 0;
+		margin-right: 0;
 		float: none
 	}
 	.cntl-image {

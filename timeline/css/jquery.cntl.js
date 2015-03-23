@@ -10,8 +10,6 @@
         }, options);
 
 
-
-
         return this.each( function() {
 
             var statelist = $(this).find('.cntl-state');
@@ -58,7 +56,7 @@
 
                         if( h > tbf )
                         {
-                            tbf = h;
+                            tbf = h+ 78;
                         }
                         bar_fill.height( tbf );
 
